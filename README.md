@@ -18,7 +18,6 @@ These people are labeled as "Admins" on this slack. They are individuals that he
 
 ## Default Channels
 
-* [#jobs](https://mainesec.slack.com/messages/jobs/)
 * [#random](https://mainesec.slack.com/messages/random/)
 * [#general](https://mainesec.slack.com/messages/general/)
 
