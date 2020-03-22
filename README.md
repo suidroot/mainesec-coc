@@ -1,8 +1,13 @@
-# MaineSec Slack Channel Policies
+# MaineSec Slack Policies
 
-Documentation, Info, and Code of Conduct for the Embedded Podcast Slack Channel.
+Documentation, Info, and Code of Conduct for the Mainesec Slack Channel.
 
 Forked From [Embedded Podcast Slack Channel Policies](https://github.com/eleciawhite/reusable/tree/master/slackPolicies)
+
+## Signup links
+
+* [mainesec.org](http://mainesec.org)
+* [Heroku App Direct](https://mainesec-slack.herokuapp.com/)
 
 ## Admins
 
