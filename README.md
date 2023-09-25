@@ -7,13 +7,12 @@ Forked From [Embedded Podcast Slack Channel Policies](https://github.com/eleciaw
 ## Signup links
 
 * [mainesec.org](http://mainesec.org)
-* [Heroku App Direct](https://mainesec-slack.herokuapp.com/)
 
 ## Admins
 
-These people are labeled as "Admins" on this slack. They are individuals that help us enforce our [Code of Conduct][conduct]
+These people are labeled as "Admins" on this Discord. They are individuals that help us enforce our [Code of Conduct][conduct]
 
-* [Ben Mason (suidroot)](https://mainesec.slack.com/messages/@suidroot/)
+* suidroot
 
 ## Policies
 
@@ -23,8 +22,8 @@ These people are labeled as "Admins" on this slack. They are individuals that he
 
 ## Default Channels
 
-* [#random](https://mainesec.slack.com/messages/random/)
-* [#general](https://mainesec.slack.com/messages/general/)
+* [#off-topic](https://discord.com/channels/1013267540274847816/1013267540274847824)
+* [#general](https://discord.com/channels/1013267540274847816/1013267540274847822)
 
 ## High-level code of conduct
 
@@ -36,9 +35,9 @@ Our anti-harassment policy can be found [here][conduct]
 
 ## Updates
 
-Policy changes are generally made by members of the admin team listed above but PR submissions from the community are welcome.
+Policy changes are generally made by members of the admin team listed above, but PR submissions from the community are welcome.
 
-All changes should be made by creating a new branch, making the desired changes, then opening a pull request for feedback. Please tag one of the organizers for a review.
+All changes should be made by creating a new branch, making the desired changes, and then opening a pull request for feedback. Please tag one of the organizers for a review.
 
 [conduct]: code-of-conduct.md
 [conduct-organizers]: conduct-organizers.md
