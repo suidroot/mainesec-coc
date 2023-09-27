@@ -10,13 +10,13 @@ Forked From [Embedded Podcast Slack Channel Policies](https://github.com/eleciaw
 
 ## Admins
 
-These people are labeled as "Admins" on this Discord. They are individuals that help us enforce our [Code of Conduct](conduct.md)
+These people are labeled as "Admins" on this Discord. They are individuals that help us enforce our [Code of Conduct](code-of-conduct.md)
 
 * suidroot
 
 ## Policies
 
-* [Code of Conduct](conduct.md)
+* [Code of Conduct](code-of-conduct.md)
 * [Guidelines for Admins](conduct-organizers.md)
 
 ## Default Channels
