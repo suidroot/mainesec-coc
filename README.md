@@ -10,14 +10,14 @@ Forked From [Embedded Podcast Slack Channel Policies](https://github.com/eleciaw
 
 ## Admins
 
-These people are labeled as "Admins" on this Discord. They are individuals that help us enforce our [Code of Conduct](README)
+These people are labeled as "Admins" on this Discord. They are individuals that help us enforce our [Code of Conduct](conduct.md)
 
 * suidroot
 
 ## Policies
 
-* [Code of Conduct](conduct)
-* [Guidelines for Admins](conduct-organizers)
+* [Code of Conduct](conduct.md)
+* [Guidelines for Admins](conduct-organizers.md)
 
 ## Default Channels
 
@@ -30,7 +30,7 @@ At Mainesec, we wholeheartedly embrace diversity and inclusivity as fundamental 
 
 Community participants violating these rules may be sanctioned or expelled from the community at the discretion of the admins.
 
-Our anti-harassment policy can be found [here](anti-harassment)
+Our anti-harassment policy can be found [here](anti-harassment.md)
 
 ## Updates
 
