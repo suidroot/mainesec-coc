@@ -16,9 +16,9 @@ These people are labeled as "Admins" on this Discord. They are individuals that 
 
 ## Policies
 
-* [Code of Conduct][conduct]
-* [Guidelines for Admins][conduct-organizers]
-* [Individual Channel Policies][channel-policies]
+* [Code of Conduct](conduct)
+* [Guidelines for Admins](conduct-organizers)
+* [Individual Channel Policies](channel-policies)
 
 ## Default Channels
 
@@ -31,7 +31,7 @@ At Mainesec, we wholeheartedly embrace diversity and inclusivity as fundamental 
 
 Community participants violating these rules may be sanctioned or expelled from the community at the discretion of the admins.
 
-Our anti-harassment policy can be found [here][conduct]
+Our anti-harassment policy can be found [here](anti-harassment)
 
 ## Updates
 
